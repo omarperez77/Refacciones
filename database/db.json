@@ -1,0 +1,16 @@
+{
+  "refacciones": [
+    {
+      "id": "1",
+      "nombre": "Frenos",
+      "categoria": "Mecánica",
+      "precio": 999
+    },
+    {
+      "id": "5668",
+      "nombre": "Aceite",
+      "categoria": "Transmision",
+      "precio": "250"
+    }
+  ]
+}
